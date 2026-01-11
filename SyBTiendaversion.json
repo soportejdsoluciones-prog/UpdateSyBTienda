@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0.0",
+  "version": "1.0.0.1",
   "fecha": "2026-01-10",
   "url_msi": "https://raw.githubusercontent.com/soportejdsoluciones-prog/UpdateSyBTienda/main/InstaladorTPvSyB.msi",
   "url_setup": "https://raw.githubusercontent.com/soportejdsoluciones-prog/UpdateSyBTienda/main/setup.exe",
