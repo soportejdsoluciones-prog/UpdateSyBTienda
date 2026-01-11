@@ -1,8 +1,7 @@
 {
-  "version": "1.0.2",
+  "version": "2.0.0",
   "fecha": "2026-01-10",
-  "url_msi": "https://drive.google.com/uc?export=download&id=1PIo2g-tkv34kVMs_fuTR_ziT8qFpsDC9",
-  "url_setup": "https://drive.google.com/uc?export=download&id=159K84Thh6TK6n27F9KR_fNKqWqeHFePo",
-  "notas": "Correccion de errores y mejoras de rendimiento",
-  "obligatoria": false
+  "url_msi": "https://raw.githubusercontent.com/soportejdsoluciones-prog/UpdateSyBTienda/main/InstaladorTPvSyB.msi",
+  "url_setup": "https://raw.githubusercontent.com/soportejdsoluciones-prog/UpdateSyBTienda/main/setup.exe",
+  "notas": "Nueva versión con mejoras importantes"
 }
