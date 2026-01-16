@@ -2,6 +2,6 @@
   "version": "1.0.0.3",
   "fecha": "2026-01-15",
   "url_msi": "https://github.com/soportejdsoluciones-prog/UpdateSyBTienda/blob/master/InstaladorTPvSyB.msi"
-  "url_setup": "0dd581dad1f63ec692af33d405a75140a11d18f3"
+  "url_setup": "https://github.com/soportejdsoluciones-prog/UpdateSyBTienda/blob/master/setup.exe"
   "notas": "Nueva version con mejoras importantes"
 }
